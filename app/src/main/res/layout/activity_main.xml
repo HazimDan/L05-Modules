@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:padding="16dp"
+    android:background="@drawable/f63b161b8d3be2680f22a6f67b3e2f5b"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:fontFamily="@font/black_ops_one"
+        android:text="@string/title"
+        android:textColor="#FF0000"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/c203"
+        android:layout_width="363dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/charmonman_bold"
+        android:text="@string/c203"
+        android:textColor="@color/white"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/c206"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/charmonman_bold"
+        android:text="@string/c206"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:id="@+id/c218"
+        android:layout_width="364dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/charmonman_bold"
+        android:text="@string/c218"
+        android:textColor="@color/white"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/c235"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/charmonman_bold"
+        android:text="@string/c235"
+        android:textColor="@color/white"
+        android:textSize="25dp" />
+
+    <TextView
+        android:id="@+id/c346"
+        android:layout_width="363dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/charmonman_bold"
+        android:text="@string/c346"
+        android:textColor="@color/white"
+        android:textSize="26dp" />
+
+    <TextView
+        android:id="@+id/g953"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/charmonman_bold"
+        android:text="@string/g953"
+        android:textColor="@color/white"
+        android:textSize="26dp" />
+
+</LinearLayout>
